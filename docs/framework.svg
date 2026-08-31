@@ -1,0 +1,379 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='2010' height='780' viewBox='0 0 2010 780'>
+<defs><marker id='arr' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M 0 0 L 10 5 L 0 10 z' fill='#777'/></marker><marker id='arrRed' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M 0 0 L 10 5 L 0 10 z' fill='#d62222'/></marker></defs>
+<rect width='2010' height='780' fill='white'/>
+<rect x='30' y='260' width='330' height='240' rx='16' fill='#f7f7f7' stroke='#bbb' stroke-width='1.5'/>
+<text x='195' y='290' font-size='17' fill='#333' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >video</text>
+<rect x='50' y='310' width='95' height='130' rx='8' fill='#eef4fd' stroke='#a9c4ea' stroke-width='1.2'/>
+<ellipse cx='97.5' cy='379.0' rx='28.5' ry='20.8' fill='#c9dcf5'/>
+<circle cx='72.8' cy='346.4' r='4.42' fill='#2b2b2b'/>
+<path d='M 66.85 360.0 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<circle cx='122.2' cy='346.4' r='4.42' fill='#2b2b2b'/>
+<path d='M 116.25 360.0 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<circle cx='72.8' cy='395.8' r='4.42' fill='#2b2b2b'/>
+<path d='M 66.85 409.40000000000003 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<circle cx='122.2' cy='395.8' r='4.42' fill='#2b2b2b'/>
+<path d='M 116.25 409.40000000000003 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<text x='97' y='470' font-size='14' fill='#333' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-style='italic'>T0</text>
+<rect x='155' y='310' width='95' height='130' rx='8' fill='#eef4fd' stroke='#a9c4ea' stroke-width='1.2'/>
+<ellipse cx='202.5' cy='379.0' rx='28.5' ry='20.8' fill='#c9dcf5'/>
+<circle cx='177.8' cy='346.4' r='4.42' fill='#2b2b2b'/>
+<path d='M 171.85000000000002 360.0 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<circle cx='227.2' cy='346.4' r='4.42' fill='#2b2b2b'/>
+<path d='M 221.25 360.0 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<circle cx='177.8' cy='395.8' r='4.42' fill='#2b2b2b'/>
+<path d='M 171.85000000000002 409.40000000000003 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<circle cx='227.2' cy='395.8' r='4.42' fill='#2b2b2b'/>
+<path d='M 221.25 409.40000000000003 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<text x='202' y='470' font-size='14' fill='#333' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-style='italic'>T1</text>
+<rect x='260' y='310' width='95' height='130' rx='8' fill='#eef4fd' stroke='#a9c4ea' stroke-width='1.2'/>
+<ellipse cx='307.5' cy='379.0' rx='28.5' ry='20.8' fill='#c9dcf5'/>
+<circle cx='282.8' cy='346.4' r='4.42' fill='#2b2b2b'/>
+<path d='M 276.85 360.0 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<circle cx='332.2' cy='346.4' r='4.42' fill='#2b2b2b'/>
+<path d='M 326.25 360.0 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<circle cx='282.8' cy='395.8' r='4.42' fill='#2b2b2b'/>
+<path d='M 276.85 409.40000000000003 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<circle cx='332.2' cy='395.8' r='4.42' fill='#2b2b2b'/>
+<path d='M 326.25 409.40000000000003 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<text x='307' y='470' font-size='14' fill='#333' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-style='italic'>T2</text>
+<text x='195' y='540' font-size='12.5' fill='#666' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >input: mp4, fixed camera,</text>
+<text x='195' y='556' font-size='12.5' fill='#666' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >2-6 people around a table</text>
+<line x1='370' y1='390' x2='420' y2='390' stroke='#777' stroke-width='2.2' marker-end='url(#arr)'/>
+<rect x='430' y='260' width='190' height='260' rx='16' fill='#eef4fd' stroke='#a9c4ea' stroke-width='1.5'/>
+<text x='525' y='290' font-size='17' fill='#333' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >tracking</text>
+<rect x='455' y='315' width='140' height='175' rx='8' fill='#eef4fd' stroke='#a9c4ea' stroke-width='1.2'/>
+<ellipse cx='525.0' cy='406.5' rx='42.0' ry='28.0' fill='#c9dcf5'/>
+<circle cx='488.6' cy='364.0' r='4.42' fill='#2b2b2b'/>
+<path d='M 482.65000000000003 377.6 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<rect x='475.6' y='352.0' width='26' height='34' rx='5' fill='none' stroke='#2e9e4f' stroke-width='2.2'/>
+<circle cx='561.4' cy='364.0' r='4.42' fill='#2b2b2b'/>
+<path d='M 555.4499999999999 377.6 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<rect x='548.4' y='352.0' width='26' height='34' rx='5' fill='none' stroke='#e8871e' stroke-width='2.2'/>
+<circle cx='488.6' cy='430.5' r='4.42' fill='#2b2b2b'/>
+<path d='M 482.65000000000003 444.1 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<rect x='475.6' y='418.5' width='26' height='34' rx='5' fill='none' stroke='#2f6fd0' stroke-width='2.2'/>
+<circle cx='561.4' cy='430.5' r='4.42' fill='#2b2b2b'/>
+<path d='M 555.4499999999999 444.1 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<rect x='548.4' y='418.5' width='26' height='34' rx='5' fill='none' stroke='#d63b3b' stroke-width='2.2'/>
+<text x='470' y='308' font-size='15' fill='#2e9e4f' font-weight='bold' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >P1</text>
+<text x='585' y='308' font-size='15' fill='#e8871e' font-weight='bold' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >P2</text>
+<text x='470' y='512' font-size='15' fill='#2f6fd0' font-weight='bold' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >P3</text>
+<text x='585' y='512' font-size='15' fill='#d63b3b' font-weight='bold' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >P4</text>
+<text x='525' y='560' font-size='12.5' fill='#666' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >detect + track each person</text>
+<text x='525' y='576' font-size='12.5' fill='#666' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >output: boxes P1..PN per frame</text>
+<line x1='630' y1='390' x2='680' y2='390' stroke='#777' stroke-width='2.2' marker-end='url(#arr)'/>
+<rect x='690' y='315' width='170' height='150' rx='18' fill='#2f6fd0' stroke='#2f6fd0' stroke-width='1.5'/>
+<text x='775' y='396' font-size='26' fill='white' font-weight='bold' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >V-JEPA</text>
+<line x1='830' y1='442' x2='839.0' y2='442.0' stroke='white' stroke-width='1.8'/>
+<line x1='834.95' y1='442.0' x2='837.319472917104' y2='440.70555104576863' stroke='white' stroke-width='1.4'/>
+<line x1='834.95' y1='442.0' x2='837.319472917104' y2='443.29444895423137' stroke='white' stroke-width='1.4'/>
+<line x1='830' y1='442' x2='834.5' y2='449.79422863405995' stroke='white' stroke-width='1.8'/>
+<line x1='832.475' y1='446.28682574873295' x2='834.7807621368186' y2='447.6916250114086' stroke='white' stroke-width='1.4'/>
+<line x1='832.475' y1='446.28682574873295' x2='832.5387107802854' y2='448.9860739656399' stroke='white' stroke-width='1.4'/>
+<line x1='830' y1='442' x2='825.5' y2='449.79422863405995' stroke='white' stroke-width='1.8'/>
+<line x1='827.525' y1='446.28682574873295' x2='827.4612892197146' y2='448.9860739656399' stroke='white' stroke-width='1.4'/>
+<line x1='827.525' y1='446.28682574873295' x2='825.2192378631814' y2='447.6916250114086' stroke='white' stroke-width='1.4'/>
+<line x1='830' y1='442' x2='821.0' y2='442.0' stroke='white' stroke-width='1.8'/>
+<line x1='825.05' y1='442.0' x2='822.680527082896' y2='443.29444895423137' stroke='white' stroke-width='1.4'/>
+<line x1='825.05' y1='442.0' x2='822.680527082896' y2='440.70555104576863' stroke='white' stroke-width='1.4'/>
+<line x1='830' y1='442' x2='825.5' y2='434.20577136594005' stroke='white' stroke-width='1.8'/>
+<line x1='827.525' y1='437.71317425126705' x2='825.2192378631814' y2='436.3083749885914' stroke='white' stroke-width='1.4'/>
+<line x1='827.525' y1='437.71317425126705' x2='827.4612892197146' y2='435.0139260343601' stroke='white' stroke-width='1.4'/>
+<line x1='830' y1='442' x2='834.5' y2='434.20577136594005' stroke='white' stroke-width='1.8'/>
+<line x1='832.475' y1='437.71317425126705' x2='832.5387107802854' y2='435.0139260343601' stroke='white' stroke-width='1.4'/>
+<line x1='832.475' y1='437.71317425126705' x2='834.7807621368186' y2='436.3083749885914' stroke='white' stroke-width='1.4'/>
+<text x='775' y='505' font-size='12.5' fill='#666' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >encodes each person's crop:</text>
+<text x='775' y='521' font-size='12.5' fill='#666' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >16 embeddings / person / 5 s window</text>
+<line x1='870' y1='390' x2='918' y2='390' stroke='#777' stroke-width='2.2' marker-end='url(#arr)'/>
+<rect x='928' y='260' width='300' height='260' rx='16' fill='#f7f7f7' stroke='#bbb' stroke-width='1.5'/>
+<text x='955' y='320' font-size='16' fill='#e8871e' font-weight='bold' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >P2</text>
+<rect x='985' y='295' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='992' y='295' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='999' y='295' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1006' y='295' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='985' y='302' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='992' y='302' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='999' y='302' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1006' y='302' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='985' y='309' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='992' y='309' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='999' y='309' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1006' y='309' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='985' y='316' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='992' y='316' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='999' y='316' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1006' y='316' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<text x='999' y='285' font-size='12' fill='#333' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >z1</text>
+<rect x='1045' y='295' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1052' y='295' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1059' y='295' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1066' y='295' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1045' y='302' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1052' y='302' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1059' y='302' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1066' y='302' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1045' y='309' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1052' y='309' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1059' y='309' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1066' y='309' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1045' y='316' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1052' y='316' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1059' y='316' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1066' y='316' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<text x='1059' y='285' font-size='12' fill='#333' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >z2</text>
+<rect x='1105' y='295' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1112' y='295' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1119' y='295' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1126' y='295' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1105' y='302' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1112' y='302' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1119' y='302' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1126' y='302' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1105' y='309' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1112' y='309' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1119' y='309' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1126' y='309' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1105' y='316' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1112' y='316' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1119' y='316' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1126' y='316' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<text x='1119' y='285' font-size='12' fill='#333' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >z3</text>
+<rect x='1165' y='295' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1172' y='295' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1179' y='295' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1186' y='295' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1165' y='302' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1172' y='302' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1179' y='302' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1186' y='302' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1165' y='309' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1172' y='309' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1179' y='309' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1186' y='309' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1165' y='316' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1172' y='316' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1179' y='316' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1186' y='316' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<text x='1179' y='285' font-size='12' fill='#333' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >z4</text>
+<text x='955' y='485' font-size='16' fill='#d63b3b' font-weight='bold' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >P4</text>
+<rect x='985' y='452' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='992' y='452' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='999' y='452' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1006' y='452' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='985' y='459' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='992' y='459' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='999' y='459' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1006' y='459' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='985' y='466' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='992' y='466' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='999' y='466' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1006' y='466' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='985' y='473' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='992' y='473' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='999' y='473' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1006' y='473' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<text x='999' y='442' font-size='12' fill='#333' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >z1</text>
+<rect x='1045' y='452' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1052' y='452' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1059' y='452' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1066' y='452' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1045' y='459' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1052' y='459' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1059' y='459' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1066' y='459' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1045' y='466' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1052' y='466' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1059' y='466' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1066' y='466' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1045' y='473' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1052' y='473' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1059' y='473' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1066' y='473' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<text x='1059' y='442' font-size='12' fill='#333' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >z2</text>
+<rect x='1105' y='452' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1112' y='452' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1119' y='452' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1126' y='452' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1105' y='459' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1112' y='459' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1119' y='459' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1126' y='459' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1105' y='466' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1112' y='466' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1119' y='466' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1126' y='466' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1105' y='473' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1112' y='473' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1119' y='473' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1126' y='473' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<text x='1119' y='442' font-size='12' fill='#333' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >z3</text>
+<rect x='1165' y='452' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1172' y='452' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1179' y='452' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1186' y='452' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1165' y='459' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1172' y='459' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1179' y='459' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1186' y='459' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1165' y='466' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1172' y='466' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1179' y='466' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1186' y='466' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1165' y='473' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1172' y='473' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1179' y='473' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<rect x='1186' y='473' width='5.8' height='5.8' fill='#cfe0f7' stroke='#7fa6dd' stroke-width='0.6'/>
+<text x='1179' y='442' font-size='12' fill='#333' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >z4</text>
+<path d='M 1020 350 Q 1044 382 1020 418' fill='none' stroke='#888' stroke-width='1.8' marker-end='url(#arr)'/>
+<path d='M 1145 418 Q 1121 382 1145 350' fill='none' stroke='#888' stroke-width='1.8' marker-end='url(#arr)'/>
+<text x='1082' y='388' font-size='15' fill='#333' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-style='italic'>corr(&#916;z, lag)</text>
+<text x='1078' y='560' font-size='12.5' fill='#666' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >compare embedding-change sequences</text>
+<text x='1078' y='576' font-size='12.5' fill='#666' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >of every pair, at lags 0-1.25 s</text>
+<line x1='1238' y1='390' x2='1286' y2='390' stroke='#777' stroke-width='2.2' marker-end='url(#arr)'/>
+<rect x='1296' y='300' width='150' height='180' rx='14' fill='#f7f7f7' stroke='#bbb' stroke-width='1.5'/>
+<text x='1371' y='328' font-size='17' fill='#333' font-weight='bold' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-style='italic'>z</text>
+<rect x='1312' y='342' width='27' height='27' fill='white' stroke='#bbb' stroke-width='1.2' stroke-dasharray='3,3'/>
+<rect x='1342' y='342' width='27' height='27' fill='rgb(178,188,245)' stroke='none'/>
+<rect x='1372' y='342' width='27' height='27' fill='rgb(200,210,245)' stroke='none'/>
+<rect x='1402' y='342' width='27' height='27' fill='rgb(137,147,245)' stroke='none'/>
+<rect x='1312' y='372' width='27' height='27' fill='rgb(210,220,245)' stroke='none'/>
+<rect x='1342' y='372' width='27' height='27' fill='white' stroke='#bbb' stroke-width='1.2' stroke-dasharray='3,3'/>
+<rect x='1372' y='372' width='27' height='27' fill='rgb(151,161,245)' stroke='none'/>
+<rect x='1402' y='372' width='27' height='27' fill='rgb(173,183,245)' stroke='none'/>
+<rect x='1312' y='402' width='27' height='27' fill='rgb(212,222,245)' stroke='none'/>
+<rect x='1342' y='402' width='27' height='27' fill='rgb(155,165,245)' stroke='none'/>
+<rect x='1372' y='402' width='27' height='27' fill='white' stroke='#bbb' stroke-width='1.2' stroke-dasharray='3,3'/>
+<rect x='1402' y='402' width='27' height='27' fill='rgb(215,225,245)' stroke='none'/>
+<rect x='1312' y='432' width='27' height='27' fill='rgb(164,174,245)' stroke='none'/>
+<rect x='1342' y='432' width='27' height='27' fill='rgb(211,221,245)' stroke='none'/>
+<rect x='1372' y='432' width='27' height='27' fill='rgb(208,218,245)' stroke='none'/>
+<rect x='1402' y='432' width='27' height='27' fill='white' stroke='#bbb' stroke-width='1.2' stroke-dasharray='3,3'/>
+<rect x='1400.5' y='370.5' width='30' height='30' fill='none' stroke='#d62222' stroke-width='2.6'/>
+<text x='1371' y='262' font-size='12.5' fill='#666' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >z: coordination vs chance,</text>
+<text x='1371' y='278' font-size='12.5' fill='#666' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >per pair, per 5 s window</text>
+<line x1='1456' y1='370' x2='1596' y2='370' stroke='#d62222' stroke-width='3.2' marker-end='url(#arrRed)'/>
+<text x='1526' y='356' font-size='16' fill='#d62222' font-weight='bold' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >P2, P4, t</text>
+<text x='1526' y='394' font-size='12.5' fill='#b04a4a' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >only the winning pair +</text>
+<text x='1526' y='410' font-size='12.5' fill='#b04a4a' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >its interval cross over</text>
+<rect x='1500' y='60' width='370' height='110' rx='14' fill='#f7f7f7' stroke='#bbb' stroke-width='1.5'/>
+<rect x='1512' y='72' width='64' height='86' rx='8' fill='#eef4fd' stroke='#a9c4ea' stroke-width='1.2'/>
+<ellipse cx='1544.0' cy='119.0' rx='19.2' ry='13.76' fill='#c9dcf5'/>
+<circle cx='1527.36' cy='96.08' r='4.42' fill='#2b2b2b'/>
+<path d='M 1521.4099999999999 109.67999999999999 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<circle cx='1560.64' cy='96.08' r='4.42' fill='#2b2b2b'/>
+<path d='M 1554.69 109.67999999999999 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<circle cx='1527.36' cy='128.76' r='4.42' fill='#2b2b2b'/>
+<path d='M 1521.4099999999999 142.35999999999999 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<circle cx='1560.64' cy='128.76' r='4.42' fill='#2b2b2b'/>
+<path d='M 1554.69 142.35999999999999 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<rect x='1583' y='72' width='64' height='86' rx='8' fill='#eef4fd' stroke='#a9c4ea' stroke-width='1.2'/>
+<ellipse cx='1615.0' cy='119.0' rx='19.2' ry='13.76' fill='#c9dcf5'/>
+<circle cx='1598.36' cy='96.08' r='4.42' fill='#2b2b2b'/>
+<path d='M 1592.4099999999999 109.67999999999999 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<circle cx='1631.64' cy='96.08' r='4.42' fill='#2b2b2b'/>
+<path d='M 1625.69 109.67999999999999 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<circle cx='1598.36' cy='128.76' r='4.42' fill='#2b2b2b'/>
+<path d='M 1592.4099999999999 142.35999999999999 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<circle cx='1631.64' cy='128.76' r='4.42' fill='#2b2b2b'/>
+<path d='M 1625.69 142.35999999999999 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<rect x='1654' y='72' width='64' height='86' rx='8' fill='#eef4fd' stroke='#a9c4ea' stroke-width='1.2'/>
+<ellipse cx='1686.0' cy='119.0' rx='19.2' ry='13.76' fill='#c9dcf5'/>
+<circle cx='1669.36' cy='96.08' r='4.42' fill='#2b2b2b'/>
+<path d='M 1663.4099999999999 109.67999999999999 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<circle cx='1702.64' cy='96.08' r='4.42' fill='#2b2b2b'/>
+<path d='M 1696.69 109.67999999999999 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<circle cx='1669.36' cy='128.76' r='4.42' fill='#2b2b2b'/>
+<path d='M 1663.4099999999999 142.35999999999999 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<circle cx='1702.64' cy='128.76' r='4.42' fill='#2b2b2b'/>
+<path d='M 1696.69 142.35999999999999 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<rect x='1725' y='72' width='64' height='86' rx='8' fill='#eef4fd' stroke='#a9c4ea' stroke-width='1.2'/>
+<ellipse cx='1757.0' cy='119.0' rx='19.2' ry='13.76' fill='#c9dcf5'/>
+<circle cx='1740.36' cy='96.08' r='4.42' fill='#2b2b2b'/>
+<path d='M 1734.4099999999999 109.67999999999999 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<circle cx='1773.64' cy='96.08' r='4.42' fill='#2b2b2b'/>
+<path d='M 1767.69 109.67999999999999 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<circle cx='1740.36' cy='128.76' r='4.42' fill='#2b2b2b'/>
+<path d='M 1734.4099999999999 142.35999999999999 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<circle cx='1773.64' cy='128.76' r='4.42' fill='#2b2b2b'/>
+<path d='M 1767.69 142.35999999999999 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<rect x='1796' y='72' width='64' height='86' rx='8' fill='#eef4fd' stroke='#a9c4ea' stroke-width='1.2'/>
+<ellipse cx='1828.0' cy='119.0' rx='19.2' ry='13.76' fill='#c9dcf5'/>
+<circle cx='1811.36' cy='96.08' r='4.42' fill='#2b2b2b'/>
+<path d='M 1805.4099999999999 109.67999999999999 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<circle cx='1844.64' cy='96.08' r='4.42' fill='#2b2b2b'/>
+<path d='M 1838.69 109.67999999999999 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<circle cx='1811.36' cy='128.76' r='4.42' fill='#2b2b2b'/>
+<path d='M 1805.4099999999999 142.35999999999999 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<circle cx='1844.64' cy='128.76' r='4.42' fill='#2b2b2b'/>
+<path d='M 1838.69 142.35999999999999 q 0 -7.6499999999999995 5.95 -7.6499999999999995 q 5.95 0 5.95 7.6499999999999995 z' fill='#2b2b2b'/>
+<line x1='1685' y1='176' x2='1685' y2='240' stroke='#777' stroke-width='2.2' marker-end='url(#arr)'/>
+<rect x='1606' y='250' width='160' height='145' rx='18' fill='#2e9e4f' stroke='#2e9e4f' stroke-width='1.5'/>
+<text x='1686' y='328' font-size='25' fill='white' font-weight='bold' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >Gemma</text>
+<line x1='1738' y1='372' x2='1747.0' y2='372.0' stroke='white' stroke-width='1.8'/>
+<line x1='1742.95' y1='372.0' x2='1745.3194729171041' y2='370.70555104576863' stroke='white' stroke-width='1.4'/>
+<line x1='1742.95' y1='372.0' x2='1745.3194729171041' y2='373.29444895423137' stroke='white' stroke-width='1.4'/>
+<line x1='1738' y1='372' x2='1742.5' y2='379.79422863405995' stroke='white' stroke-width='1.8'/>
+<line x1='1740.475' y1='376.28682574873295' x2='1742.7807621368186' y2='377.6916250114086' stroke='white' stroke-width='1.4'/>
+<line x1='1740.475' y1='376.28682574873295' x2='1740.5387107802853' y2='378.9860739656399' stroke='white' stroke-width='1.4'/>
+<line x1='1738' y1='372' x2='1733.5' y2='379.79422863405995' stroke='white' stroke-width='1.8'/>
+<line x1='1735.525' y1='376.28682574873295' x2='1735.4612892197147' y2='378.9860739656399' stroke='white' stroke-width='1.4'/>
+<line x1='1735.525' y1='376.28682574873295' x2='1733.2192378631814' y2='377.6916250114086' stroke='white' stroke-width='1.4'/>
+<line x1='1738' y1='372' x2='1729.0' y2='372.0' stroke='white' stroke-width='1.8'/>
+<line x1='1733.05' y1='372.0' x2='1730.6805270828959' y2='373.29444895423137' stroke='white' stroke-width='1.4'/>
+<line x1='1733.05' y1='372.0' x2='1730.6805270828959' y2='370.70555104576863' stroke='white' stroke-width='1.4'/>
+<line x1='1738' y1='372' x2='1733.5' y2='364.20577136594005' stroke='white' stroke-width='1.8'/>
+<line x1='1735.525' y1='367.71317425126705' x2='1733.2192378631814' y2='366.3083749885914' stroke='white' stroke-width='1.4'/>
+<line x1='1735.525' y1='367.71317425126705' x2='1735.4612892197147' y2='365.0139260343601' stroke='white' stroke-width='1.4'/>
+<line x1='1738' y1='372' x2='1742.5' y2='364.20577136594005' stroke='white' stroke-width='1.8'/>
+<line x1='1740.475' y1='367.71317425126705' x2='1740.5387107802853' y2='365.0139260343601' stroke='white' stroke-width='1.4'/>
+<line x1='1740.475' y1='367.71317425126705' x2='1742.7807621368186' y2='366.3083749885914' stroke='white' stroke-width='1.4'/>
+<text x='1686' y='424' font-size='12.5' fill='#666' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >sees 5 raw frames + the pair's</text>
+<text x='1686' y='440' font-size='12.5' fill='#666' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >names; no scores, no embeddings</text>
+<line x1='1772' y1='322' x2='1808' y2='322' stroke='#777' stroke-width='2.2' marker-end='url(#arr)'/>
+<path d='M 1818 262 h 150 a 12 12 0 0 1 12 12 v 80 a 12 12 0 0 1 -12 12 h -105 l -22 24 v -24 h -23 a 12 12 0 0 1 -12 -12 v -80 a 12 12 0 0 1 12 -12 z' fill='#fdfdfd' stroke='#999' stroke-width='1.8'/>
+<rect x='1838' y='285' width='110' height='9' rx='4' fill='#b9b9b9'/>
+<rect x='1838' y='307' width='88' height='9' rx='4' fill='#b9b9b9'/>
+<rect x='1838' y='329' width='66' height='9' rx='4' fill='#b9b9b9'/>
+<text x='1893' y='402' font-size='13' fill='#666' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >output: what visibly</text>
+<text x='1893' y='418' font-size='13' fill='#666' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >happened (text)</text>
+<path d='M 1371 486 L 1371 540 L 1420 540' fill='none' stroke='#777' stroke-width='2.2' marker-end='url(#arr)'/>
+<rect x='1454' y='510' width='130' height='130' rx='10' fill='white' stroke='#aaa' stroke-width='1.4'/>
+<rect x='1442' y='498' width='130' height='130' rx='10' fill='white' stroke='#aaa' stroke-width='1.4'/>
+<rect x='1430' y='486' width='130' height='130' rx='10' fill='white' stroke='#aaa' stroke-width='1.4'/>
+<rect x='1445' y='502' width='24' height='24' fill='white' stroke='#bbb' stroke-width='1.2' stroke-dasharray='3,3'/>
+<rect x='1472' y='502' width='24' height='24' fill='rgb(178,188,245)' stroke='none'/>
+<rect x='1499' y='502' width='24' height='24' fill='rgb(200,210,245)' stroke='none'/>
+<rect x='1526' y='502' width='24' height='24' fill='rgb(137,147,245)' stroke='none'/>
+<rect x='1445' y='529' width='24' height='24' fill='rgb(210,220,245)' stroke='none'/>
+<rect x='1472' y='529' width='24' height='24' fill='white' stroke='#bbb' stroke-width='1.2' stroke-dasharray='3,3'/>
+<rect x='1499' y='529' width='24' height='24' fill='rgb(151,161,245)' stroke='none'/>
+<rect x='1526' y='529' width='24' height='24' fill='rgb(173,183,245)' stroke='none'/>
+<rect x='1445' y='556' width='24' height='24' fill='rgb(212,222,245)' stroke='none'/>
+<rect x='1472' y='556' width='24' height='24' fill='rgb(155,165,245)' stroke='none'/>
+<rect x='1499' y='556' width='24' height='24' fill='white' stroke='#bbb' stroke-width='1.2' stroke-dasharray='3,3'/>
+<rect x='1526' y='556' width='24' height='24' fill='rgb(215,225,245)' stroke='none'/>
+<rect x='1445' y='583' width='24' height='24' fill='rgb(164,174,245)' stroke='none'/>
+<rect x='1472' y='583' width='24' height='24' fill='rgb(211,221,245)' stroke='none'/>
+<rect x='1499' y='583' width='24' height='24' fill='rgb(208,218,245)' stroke='none'/>
+<rect x='1526' y='583' width='24' height='24' fill='white' stroke='#bbb' stroke-width='1.2' stroke-dasharray='3,3'/>
+<text x='1508' y='658' font-size='15' fill='#333' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >aggregate</text>
+<text x='1508' y='678' font-size='12.5' fill='#666' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >combine all windows</text>
+<line x1='1596' y1='550' x2='1636' y2='550' stroke='#777' stroke-width='2.2' marker-end='url(#arr)'/>
+<rect x='1646' y='460' width='220' height='190' rx='16' fill='#f7f7f7' stroke='#bbb' stroke-width='1.5'/>
+<path d='M 1815.0 589.0 Q 1829.0 556.0 1815.0 523.0' fill='none' stroke='#666' stroke-width='4.6' marker-end='url(#arr)'/>
+<path d='M 1815.0 521.0 Q 1801.0 554.0 1815.0 587.0' fill='none' stroke='#666' stroke-width='2.2' marker-end='url(#arr)'/>
+<path d='M 1700.0 589.0 Q 1714.0 556.0 1700.0 523.0' fill='none' stroke='#666' stroke-width='2.6' marker-end='url(#arr)'/>
+<path d='M 1700.0 521.0 Q 1686.0 554.0 1700.0 587.0' fill='none' stroke='#666' stroke-width='2.0' marker-end='url(#arr)'/>
+<path d='M 1802.926311645384 594.5011405612034 Q 1767.4411075311104 545.0917014046358 1713.582899398943 516.8112168686462' fill='none' stroke='#666' stroke-width='2.2' marker-end='url(#arr)'/>
+<path d='M 1712.073688354616 594.5011405612034 Q 1765.9318964867834 566.2206560252139 1801.417100601057 516.8112168686462' fill='none' stroke='#666' stroke-width='1.6' marker-end='url(#arr)'/>
+<circle cx='1700' cy='505' r='13' fill='#2e9e4f'/>
+<text x='1700' y='485' font-size='14' fill='#2e9e4f' font-weight='bold' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >P1</text>
+<circle cx='1815' cy='505' r='13' fill='#e8871e'/>
+<text x='1815' y='485' font-size='14' fill='#e8871e' font-weight='bold' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >P2</text>
+<circle cx='1700' cy='605' r='13' fill='#2f6fd0'/>
+<text x='1700' y='635' font-size='14' fill='#2f6fd0' font-weight='bold' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >P3</text>
+<circle cx='1815' cy='605' r='13' fill='#d63b3b'/>
+<text x='1815' y='635' font-size='14' fill='#d63b3b' font-weight='bold' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >P4</text>
+<text x='1756' y='682' font-size='14' fill='#333' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >output: who follows whom</text>
+<text x='1756' y='702' font-size='12.5' fill='#666' font-weight='normal' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' >directed strengths F, S</text>
+</svg>

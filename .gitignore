@@ -1,0 +1,12 @@
+.venv/
+models/
+results/
+__pycache__/
+*.pyc
+.DS_Store
+*.mp4
+*.avi
+*.mov
+*.gguf
+rating_sheet.csv
+rating_key.json
